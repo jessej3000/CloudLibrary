@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{685B2A27-12B1-4425-AA55-1CECAEB0B8CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloudManager/Program.cs">
+    <Files>
+      <File FileName="CloudLibrary/EnvironmentModel.cs" Line="79" Column="10" />
+      <File FileName="CloudLibrary/CloudServiceModel.cs" />
+      <File FileName="CloudLibrary/InfraControl.cs" />
+      <File FileName="CloudLibrary/VirtualMachineModel.cs" />
+      <File FileName="CloudLibrary/MachineModel.cs" />
+      <File FileName="CloudLibrary/InfraGlobal.cs" />
+      <File FileName="CloudLibrary/DatabaseServerModel.cs" />
+      <File FileName="CloudManager/Program.cs" Line="345" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CloudSolution" expanded="True">
+            <Node name="CloudLibrary" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="CloudManager" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>nims</Value>
+          <Value>fnf.Replace(".mdb","")</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CloudManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

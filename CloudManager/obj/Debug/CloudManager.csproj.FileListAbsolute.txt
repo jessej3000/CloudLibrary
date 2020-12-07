@@ -1,0 +1,9 @@
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/obj/Debug/CloudManager.csprojAssemblyReference.cache
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/obj/Debug/CloudManager.csproj.CoreCompileInputs.cache
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/bin/Debug/CloudManager.exe
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/bin/Debug/CloudManager.pdb
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/bin/Debug/CloudLibrary.dll
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/bin/Debug/CloudLibrary.pdb
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/obj/Debug/CloudManager.csproj.CopyComplete
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/obj/Debug/CloudManager.exe
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudManager/obj/Debug/CloudManager.pdb

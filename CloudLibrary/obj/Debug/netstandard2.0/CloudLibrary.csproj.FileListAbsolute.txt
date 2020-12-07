@@ -1,0 +1,9 @@
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/bin/Debug/netstandard2.0/CloudLibrary.deps.json
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/bin/Debug/netstandard2.0/CloudLibrary.dll
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/bin/Debug/netstandard2.0/CloudLibrary.pdb
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/obj/Debug/netstandard2.0/CloudLibrary.csprojAssemblyReference.cache
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/obj/Debug/netstandard2.0/CloudLibrary.AssemblyInfoInputs.cache
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/obj/Debug/netstandard2.0/CloudLibrary.AssemblyInfo.cs
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/obj/Debug/netstandard2.0/CloudLibrary.csproj.CoreCompileInputs.cache
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/obj/Debug/netstandard2.0/CloudLibrary.dll
+/Users/jessejunsay/Documents/NETExam/CloudSolution/CloudLibrary/obj/Debug/netstandard2.0/CloudLibrary.pdb
